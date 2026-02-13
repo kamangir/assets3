@@ -1,3 +1,3 @@
 # assets-template
 
-assets used in github/kamangir - part X.
+assets used in github/kamangir - part 3.
